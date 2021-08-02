@@ -1,0 +1,32 @@
+What does a computer do when you type a letter? 
+	When you press a particular button, a corresponding code gets generated and is sent to the processor. Then the code gets interpreted and a corresponding image of a typed symbol gets pulled from a font table and is displayed on a screen.
+
+How do computers use input and output to create experiences? 
+Computers use relatively primitive input devices like a keyboard, that's just capable of generating codes and pass them further to the RAM, CPU etc, and a mouse, that sends a change in a laser emitter (or a 
+ball in the past) position to be processed into correlating positions of the mouse pointer on the screen. On the other hand, the experiences that a user gets by using those relatively primitive means of input, can greatly vary from using a word processor or a spreadsheet, watching a movie, coding or a playing a video game.
+
+Why software products are essentially 'infinitely reproducible nothings'
+Because the financial margin of software is enormous. It doesn't require any raw materials, and virtually no input except intellectual. Besides software is infinitely scalable, there is no limit as to how many copies of software you can reproduce, which even further increases its economic value. 
+
+Explain in your own words how code becomes software.
+Code essentially is a language that is an intermediary between a human and a machine, but much closer to humans. The goal of software is to get something done, run a task. It needs an instruction to do that. 
+
+The language a computer understands is machine code. So in order for programming language code to become a machine code it needs to run through a compiler, which reads the program file line by line and translates it into machine code. Then it gets executed by a computer, thus the task of software is executed. 
+
+Explain 'algorithms' in your own words.
+	Algorithm is a (hopefully) efficient way of solving a particular problem. You can think of it as a recipe to solve a problem. Apparently you can solve a problem by using different approaches, but one should strive for the most efficient ones. The difference between an efficient and not-so-much algorithm can mean the increase in processing time that renders the application unusable. 
+
+Explain the DRY principle.
+The DRY principle means "Don't Repeat Yourself". It calls for a concise scalable solution where a task gets solved once and then gets infinitely reused by a computer in the future. It prevents wasting time on solving the same task more than once.
+
+In your own words explain data and how it relates to code
+	In my opinion data is a term for information coming in different forms. The relation between coding and data is that coding is meant for data management, meaning it can help process the data, to use it to make something meaningful out of it.
+
+What is a framework?
+	A framework is an environment, a set of often-used functions and modules that significantly facilitate development. I would say that a framework is an implementation of a DRY principle. It bundles the most common tasks in modules, a framework is built on top of a programming language. 
+
+What is debugging?
+	Debugging is the process of finding 'bugs' in code, meaning things that prevent the code from running correctly, including but not limited to typos for example. In simple terms, debugging is making something that doesn't work, work.
+
+Now with more understanding of what code is, why do you want to learn how to code? 
+Since childhood, I’ve always had an inquisitive mind. I wanted to know everything, and I enjoyed logically deducing how things worked.
