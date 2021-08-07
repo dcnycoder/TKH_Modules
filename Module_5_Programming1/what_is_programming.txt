@@ -1,0 +1,22 @@
+Explain in your own words what is Python? (300 Words)
+Python is a high level computer programming language. “High level” means that it far from being machine code, it’s more similar to human language, unlike assembly language for example.  It is widely used for data science purposes due to the fact that it has a lot of related modules. The reason behind it by the way is a huge community of supporters. Python is object oriented.  Python is an interpreted language, which takes a compilation step out of the picture. It makes Python very fast.
+
+Explain Data Python Data Types (200 Words)
+Python data types include five major categories : numeric, dictionary, Boolean, set and a sequence. Numeric type is further divided into integer, complex number and a float. The reason why is because these different numeric types take up different amount of memory. Integers don’t contain a fraction or decimals, floats do. Complex numbers have a real and imaginary part. An integer for example, takes less space than float. So if we don’t need much precision and integer would suffice, we should use integers. 
+Dictionary is a data type that features a key value pair like: {name: “alex”, age: 22}. So it acts quite similar to a regular dictionary, where one would look up a corresponding content by just finding a key. The advantage of a dictionary is that it’s very fast. It is implemented using a hash table. There is no iteration while searching for a specific value, like in array. Search time complexity is O(1). 
+Boolean is a simple true/false type. They may be useful to implement conditions and logic structures. 
+Sequences include strings, lists and tuples. Elements of strings may be accessed using an index from 0 to length of string – 1. Strings are immutable. We can format, slice and concatenate them. Lists are equivalent to arrays in other languages. They are ordered collection of data, possibly of different types. Like [1, “two”, true]. Tuple is very similar to list, but tuple is immutable unlike the list which is mutable. Tuples are much faster and consumes less memory. 
+Sets are very similar to lists and tuples, but you cannot access an element by index. We can iterate through sets instead.  A set doesn’t have duplicate objects.
+
+Explain in your own words What is a function? ( 250 Words )
+A function is simply put, a block of code that is bundled together to fulfill a certain task. A function generally has a name, but can also be nameless (lambda function). Functions help reduce repetition, which is what DRY principle tries to achieve. You can create a function and reuse it later. Functions can be called by name. In Python functions are created using a “def” reserved word. The body of a function is indented.
+
+Explain the Python print statement (250 Words)
+Python print statement is generally used to print things on a screen, like this:
+print(“Hello, world”)
+, where “Hello, world” is an argument but print command doesn’t require an argument. If you just type print(), it will print a new line (\n). If you have a variable, you can also pass it to the print command like this: print(“Hello” + variable_name) 
+it will get evaluated and displayed on a screen. For example if I you do: 
+name = “Dennis”
+print(“Hello” + name)
+You will see “Hello Dennis” on the screen. 
+Print command doesn’t only print on the screen. It does so by default, but if you specify a file parameter, it can also write to a file. 
