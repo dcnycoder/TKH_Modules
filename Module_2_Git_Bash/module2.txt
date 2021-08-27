@@ -1,0 +1,11 @@
+What is Git and how is it different than Github
+Git is a popular version control system. Version control basically means that you can save incremental changes to your files and have access to those changes, essentially be able to trace back to previous versions of a file if needed. It also greatly simplifies collaboration on projects. Several people can work on the same projects without conflicting each other via using different “branches”.
+Github is the most popular website that uses git technology.
+
+Why use the terminal
+GUI basically acts as an interpreter between a user and a computer. Terminal lets a user communicate with a computer more directly, without an intermediary so to speak. Terminal has all the capabilities of GUI.  It is much faster and more efficient than dragging a mouse pointer across the screen when you want to create a file or folder. Using a terminal is a more direct way to communicate with a computer.
+
+Explain 3 benefits of version control in your own words
+Version control lets you have access to older versions of files, thus allowing you to ‘roll back” to other versions if necessary.  
+Version control acts as a “central storage” that a team can access from anywhere. 
+It also allows team to work on the same files reducing conflicts when the files get changed. It organizes and significantly facilitates workflow. 
